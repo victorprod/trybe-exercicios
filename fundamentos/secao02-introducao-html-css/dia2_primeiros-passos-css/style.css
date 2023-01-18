@@ -1,0 +1,23 @@
+body {
+    background-color: rgb(111, 228, 164);
+  }
+
+  .meuNome, .descricao {
+    font-family: Arial, Helvetica, sans-serif;
+  }
+
+  em {
+    color: rgb(67, 138, 83);
+  }
+
+  .html {
+    font-size: 18px;
+  }
+
+  .css {
+    font-size: 18px;
+  }
+
+  .python {
+    font-size: 18px;
+  }  
